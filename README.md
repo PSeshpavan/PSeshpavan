@@ -1,9 +1,10 @@
+[![MasterHead]()]()
+
 <h1 align="center">Hi 👋, I'm Sesh Pavan</h1>
 <h3 align="center">A Tech Enthusiast | Full-Stack Developer | AI & ML Explorer | Aspiring Innovator</h3>
+<img align="right" alt="coding" width="350px" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pseshpavan&label=Profile%20views&color=0e75b6&style=flat" alt="pseshpavan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pseshpavan" alt="pseshpavan" /></a> </p>
 
 - 🌱 I’m currently learning **TensorFlow, Pytorch**
 
@@ -11,17 +12,13 @@
 
 - 📫 How to reach me **pseshpavan@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/pseshpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pseshpavan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pullagura-seshpavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pullagura-seshpavan/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/au_21eg112b54" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/au_21eg112b54" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/seshpavan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/seshpavan123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/b54-seshpavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/b54-seshpavan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pullagura-seshpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pullagura-seshpavan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28716715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28716715" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/au_21eg112b54" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="au_21eg112b54" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/seshpavan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seshpavan123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/b54-seshpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b54-seshpavan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
