@@ -35,7 +35,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseshpavan&show_icons=true&locale=en&layout=compact" alt="pseshpavan" width="418px" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pseshpavan&show_icons=true&locale=en" alt="pseshpavan" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pseshpavan&show_icons=true&locale=en" alt="pseshpavan" /></p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
